@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'worpoyxk',
         'HOST': 'ruby.db.elephantsql.com',
         'USER': 'worpoyxk',
-        'PASSWORD': 'nuHfAQ0R45CxmBZbfCrcvkIJawrGnABF',
+        'PASSWORD': 'xxxxxx',
         'PORT': '5432'
     }
 }
